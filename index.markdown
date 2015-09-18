@@ -17,9 +17,9 @@ Reclamator puede
 1. Descargar el archivo comprimido aquí
 2. Descomprimir la carpeta y abrir el ejecutable
 3. Crear acceso directo a gusto
-![alt text](https://github.com/Reclamator/Reclamator.github.io/blob/master/img/1.png)
+![![Imagen no disponible :(]](https://github.com/Reclamator/Reclamator.github.io/blob/master/img/1.png)
 3. Abrir haciendo doble click
-![alt text](https://github.com/Reclamator/Reclamator.github.io/blob/master/img/14.png)
+![Imagen no disponible :()](https://github.com/Reclamator/Reclamator.github.io/blob/master/img/14.png)
 4. Navegar por el menu de la izquierda
 
 
