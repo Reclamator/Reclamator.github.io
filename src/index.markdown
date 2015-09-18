@@ -10,8 +10,13 @@ Reclamator puede
 - Enviar "Tweets" de forma totalmente automática cuando se llega a un porcentaje inferior de la velocidad correspondiente. 
 
 # Descargar
-[Windows 10 Beta](https://github.com/Reclamator/Reclamator.github.io/blob/master/files/Reclamator%20windows-x32.zip?raw=true)
+[Windows 10 Beta](../files/windows-x32.7z?raw=true)  
 ------
+[OSX Beta](../files/mac-x32.7z?raw=true)  
+------
+[Linux Beta](../files/linux-x64.tbz2?raw=true)
+------
+[Suscribirse a notificaciones de versiones nuevas](http://eepurl.com/bzMFCT)
 
 # Como funciona?
 - Utiliza los servidores de [Ookla Speedtest](speedtest.net) para medir la velocidad.
@@ -22,16 +27,16 @@ Reclamator puede
 1. Descargar el archivo comprimido aquí
 2. Descomprimir la carpeta y abrir el ejecutable
 3. Crear acceso directo a gusto
-![![Imagen no disponible :(]](https://github.com/Reclamator/Reclamator.github.io/blob/master/img/1.png?raw=true)
+![![Imagen no disponible :(]](/img/1.png?raw=true)
 
 3. Abrir haciendo doble click
-![Imagen no disponible :(](https://github.com/Reclamator/Reclamator.github.io/blob/master/img/14.png?raw=true)
+![Imagen no disponible :(](/img/14.png?raw=true)
 
 # Como se usa?
 ## 1.) Medir la latencia
 1. Ingresar un dominio en el campo, por defecto esta www.google.com
 2. Hacer click en Start
-![Imagen no disponible :(](https://github.com/Reclamator/Reclamator.github.io/blob/master/img/3.png?raw=true)
+![Imagen no disponible :(](/img/3.png?raw=true)
 
 3. Va realizando ping indefinidamente hasta que el usuario pare o salga del programa. Todos los valores se guardan en la base de datos local.
 
@@ -40,21 +45,21 @@ Reclamator puede
 1. Ingresar en el menu y seleccionar la pantalla velocidad
 2. Seleccionar la frecuencia con la la que desea realizar las pruebas de velocidad
 3. Luego de hacer click en Start empezara a realizar un test de velocidad en intervalos de la cantidad de minutos especificados, por defecto cada 30 minutos..
-![Imagen no disponible :(](https://github.com/Reclamator/Reclamator.github.io/blob/master/img/4.png?raw=true)
+![Imagen no disponible :(](img/4.png?raw=true)
 
 ## 3.) Visualizar estadísticas 
 1. Hacer click en la sección de Estadísticas del menu
 2. Al entrar en la sección se mostrara el gráfico de las estadísticas del día actual
 3. Para elegir un rango de fecha hacer click arriba en el seleccionador de fechas
 4. Dependiendo del tamaño de la base de datos y la velocidad de la computadora, se desplegara el resultado en pocos segundos
-![Imagen no disponible :(](https://github.com/Reclamator/Reclamator.github.io/blob/master/img/8.png?raw=true)
+![Imagen no disponible :(](img/8.png?raw=true)
 
-5. Haciendo click y arrastrando el mouse sobre el grafico como se muestra en la imagen, permite hacer “zoom” de esa parte del gráfico 
-![Imagen no disponible :(](https://github.com/Reclamator/Reclamator.github.io/blob/master/img/9.png?raw=true)
+5. Haciendo click y arrastrando el mouse sobre el gráfico como se muestra en la imagen, permite hacer “zoom” de esa parte del gráfico 
+![Imagen no disponible :(](img/9.png?raw=true)
 
 6. Se puede repetir el proceso de zoom hasta alcanzar una vista cómoda de cada detalle 
-![Imagen no disponible :(](https://github.com/Reclamator/Reclamator.github.io/blob/master/img/12.png?raw=true)
-![Imagen no disponible :(](https://github.com/Reclamator/Reclamator.github.io/blob/master/img/13.png?raw=true)
+![Imagen no disponible :(](img/12.png?raw=true)
+![Imagen no disponible :(](img/13.png?raw=true)
 
 
 ## 4.) Configurar Tweets automáticos
@@ -65,8 +70,8 @@ Reclamator puede
 5. Ingresar el mensaje del Tweet, Ej: “Mi internet debería descargar con 1 Mb/s pero solo funciona con el 60% de velocidad”
 6. Seguir las Instrucciones para configurar el API Key
 7. Una vez guardado correctamente los API Keys y completado todos los datos asegúrese de que el mensaje del Tweet corresponde con el porcentaje y el ancho de banda configurado. 
-![Imagen no disponible :(](https://github.com/Reclamator/Reclamator.github.io/blob/master/img/16.png?raw=true "Antes")
-![Imagen no disponible :(](https://github.com/Reclamator/Reclamator.github.io/blob/master/img/17.png?raw=true "Despues")
+![Imagen no disponible :(](img/16.png?raw=true "Antes")
+![Imagen no disponible :(](img/17.png?raw=true "Despues")
 
 
 ## 3.) Log
@@ -80,7 +85,9 @@ Reclamator puede
 3. Apretar botón **“Borrar base de datos”** para eliminar toda la configuración personal mas los logs. 
 4. Apretar botón **“Borrar Log de Errores”** para eliminar solamente el log de la aplicación 
 
-
+## Planes para agregarle en el futuro
+- Soporte para reclamos por Email etc.. ideas son bienvenidas.. , si estas interesad@ en participar o tenes recomendaciones no dudes en contactarme.
+- Publicar en Github con una documentacion detallada
 
 
 ---- 
@@ -95,10 +102,8 @@ La idea es mejorar el Internet que sigue siendo pésimo y caro comparado con otr
 Reclamator es una aplicación de chequeo del Internet, sin permiso del firewall no puede funcionar. 
 #### Por que no esta activado tu Windows?
 Porque no uso Windows y solo lo instale en una maquina virtual para hacer las pruebas 
-#### Me di cuenta que el directorio de la aplicación creció en tamaño
+#### Me di cuenta que el directorio de la aplicación se expandió mucho
 Esto va pasar con el tiempo ya que la aplicación loquea tanto los eventos del programa como las estadísticas de velocidad y latencia
-
-
 
 
 
