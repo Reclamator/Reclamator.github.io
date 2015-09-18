@@ -16,8 +16,12 @@ Reclamator puede
 # Como se instala?
 1. Descargar el archivo comprimido aquí
 2. Descomprimir la carpeta y abrir el ejecutable
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
-3. Navegar por el menu de la izquierda
+3. Crear acceso directo a gusto
+![alt text](https://github.com/Reclamator/Reclamator.github.io/blob/master/img/1.png)
+3. Abrir haciendo doble click
+![alt text](https://github.com/Reclamator/Reclamator.github.io/blob/master/img/14.png)
+4. Navegar por el menu de la izquierda
+
 
 
 # Como se usa?
