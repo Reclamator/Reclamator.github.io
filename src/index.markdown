@@ -27,16 +27,16 @@ Reclamator puede
 1. Descargar el archivo comprimido aquí
 2. Descomprimir la carpeta y abrir el ejecutable
 3. Crear acceso directo a gusto
-![![Imagen no disponible :(]](/img/1.png?raw=true)
+![![Imagen no disponible :(]](img/1.png?raw=true)
 
 3. Abrir haciendo doble click
-![Imagen no disponible :(](/img/14.png?raw=true)
+![Imagen no disponible :(](img/14.png?raw=true)
 
 # Como se usa?
 ## 1.) Medir la latencia
 1. Ingresar un dominio en el campo, por defecto esta www.google.com
 2. Hacer click en Start
-![Imagen no disponible :(](/img/3.png?raw=true)
+![Imagen no disponible :(](img/3.png?raw=true)
 
 3. Va realizando ping indefinidamente hasta que el usuario pare o salga del programa. Todos los valores se guardan en la base de datos local.
 
