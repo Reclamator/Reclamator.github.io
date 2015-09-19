@@ -1,5 +1,5 @@
 
-# Reclamator
+### Reclamator
  Realmente recibes el servicio de Internet que pagas?
 
 La idea es exigir mejor calidad de Internet.
@@ -9,7 +9,7 @@ Reclamator puede
 - Medir la latencia de la red haciendo ping contra un dominio
 - Enviar "Tweets" de forma totalmente automática cuando se llega a un porcentaje inferior de la velocidad correspondiente. 
 
-# Descargar
+### Descargar
 [Windows 10 Beta](../files/windows-x32.7z?raw=true)  
 ------
 [OSX Beta](../files/mac-x32.7z?raw=true)  
@@ -18,12 +18,12 @@ Reclamator puede
 ------
 [Suscribirse a notificaciones de versiones nuevas](http://eepurl.com/bzMFCT)
 
-# Como funciona?
+### Como funciona?
 - Utiliza los servidores de [Ookla Speedtest](speedtest.net) para medir la velocidad.
 - Usa TCP Ping para medir la latencia.
 - Para enviar tweets utiliza la API de Twitter.
 
-# Como se instala?
+### Como se instala?
 1. Descargar el archivo comprimido aquí
 2. Descomprimir la carpeta y abrir el ejecutable
 3. Crear acceso directo a gusto
@@ -32,8 +32,8 @@ Reclamator puede
 3. Abrir haciendo doble click
 ![Imagen no disponible :(](img/14.png?raw=true)
 
-# Como se usa?
-## 1.) Medir la latencia
+### Como se usa?
+### 1.) Medir la latencia
 1. Ingresar un dominio en el campo, por defecto esta www.google.com
 2. Hacer click en Start
 ![Imagen no disponible :(](img/3.png?raw=true)
@@ -41,13 +41,13 @@ Reclamator puede
 3. Va realizando ping indefinidamente hasta que el usuario pare o salga del programa. Todos los valores se guardan en la base de datos local.
 
 
-## 2.) Medir la velocidad
+### 2.) Medir la velocidad
 1. Ingresar en el menu y seleccionar la pantalla velocidad
 2. Seleccionar la frecuencia con la la que desea realizar las pruebas de velocidad
 3. Luego de hacer click en Start empezara a realizar un test de velocidad en intervalos de la cantidad de minutos especificados, por defecto cada 30 minutos..
 ![Imagen no disponible :(](img/4.png?raw=true)
 
-## 3.) Visualizar estadísticas 
+### 3.) Visualizar estadísticas 
 1. Hacer click en la sección de Estadísticas del menu
 2. Al entrar en la sección se mostrara el gráfico de las estadísticas del día actual
 3. Para elegir un rango de fecha hacer click arriba en el seleccionador de fechas
@@ -62,7 +62,7 @@ Reclamator puede
 ![Imagen no disponible :(](img/13.png?raw=true)
 
 
-## 4.) Configurar Tweets automáticos
+### 4.) Configurar Tweets automáticos
 1. Ingresar en la parte de Configuraciones del menu
 2. Marcar el checkbox “Activar reclamos automáticos”
 3. Ingresar el ancho de banda de su conexión. Debe saber con exactitud cuanto ancho de banda corresponde a su plan de Internet, y si varia durante el dia/noche.
@@ -74,18 +74,18 @@ Reclamator puede
 ![Imagen no disponible :(](img/17.png?raw=true "Despues")
 
 
-## 3.) Log
+### 3.) Log
 1. El log (© Karlheinz Niebuhr) es para ver lo que sucede por detrás de la interface del programa, permite inspeccionar a cada paso la ejecución del código y detectar la  causa de posibles errores.
 2. Si desea reportar un error puede contactarme en twitter [@NiebuhrKarl](https://twitter.com/niebuhrkarl)
 
 
-## 3.) Borrar la base de datos 
+### 3.) Borrar la base de datos 
 1. Entrar en el menu Configuraciones
 2. Bajar la pantalla hasta alcanzar los botones rojos 
 3. Apretar botón **“Borrar base de datos”** para eliminar toda la configuración personal mas los logs. 
 4. Apretar botón **“Borrar Log de Errores”** para eliminar solamente el log de la aplicación 
 
-## Planes para agregarle en el futuro
+### Planes para agregarle en el futuro
 - Soporte para reclamos por Email etc.. ideas son bienvenidas.. , si estas interesad@ en participar o tenes recomendaciones no dudes en contactarme.
 - Publicar en Github con una documentacion detallada
 
