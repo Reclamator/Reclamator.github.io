@@ -29,7 +29,7 @@ Reclamator puede
 ### Descargar
 [Windows 10 Beta](../files/windows-x32.7z?raw=true)  
 ------
-[OSX Beta](../files/mac-x32.7z?raw=true)  
+[OS X Beta](../files/mac-x32.7z?raw=true)  
 ------
 [Linux Beta](../files/linux-x64.tbz2?raw=true)
 ------
