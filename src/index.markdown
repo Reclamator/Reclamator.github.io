@@ -33,7 +33,7 @@ Reclamator puede
 ------
 [Linux Beta](../files/linux-x64.tbz2?raw=true)
 ------
-[Suscribirse a notificaciones de versiones nuevas](http://eepurl.com/bzMFCT)
+[Notificarme sobre versiones nuevas](http://eepurl.com/bzMFCT)
 
 ### Como funciona?
 - Utiliza los servidores de [Ookla Speedtest](speedtest.net) para medir la velocidad.
