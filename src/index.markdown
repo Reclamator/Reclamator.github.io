@@ -44,7 +44,7 @@ Reclamator puede
 1. Descargar el archivo comprimido aquí
 2. Descomprimir la carpeta y abrir el ejecutable
 3. Crear acceso directo a gusto
-![![Imagen no disponible :(]](img/1.jpeg?raw=true)
+![Imagen no disponible :(]](img/1.jpeg?raw=true)
 
 3. Abrir haciendo doble click
 ![Imagen no disponible :(](img/14.jpeg?raw=true)
