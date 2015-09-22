@@ -27,9 +27,9 @@ Reclamator puede
 - Enviar "Tweets" de forma totalmente automática cuando se llega a un porcentaje inferior de la velocidad correspondiente. 
 
 ### Descargar
-[Windows 10 Beta](../files/windows-x32.7z?raw=true)  
+[Windows 10 Beta](../files/windows-x32.zip?raw=true)  
 ------
-[OS X Beta](../files/mac-x32.7z?raw=true)  
+[OS X Beta](../files/mac-x32.zip?raw=true)  
 ------
 [Linux Beta](../files/linux-x64.tbz2?raw=true)
 ------
